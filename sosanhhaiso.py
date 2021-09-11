@@ -1,0 +1,6 @@
+print('Nhap a: ')
+a = input("")
+print('Nhap b: ')
+b = input("")
+if(a > b) : print('a > b')
+else : print(b > a)
